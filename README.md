@@ -7,5 +7,5 @@ npm install
 
 node frestea.js
 
-DON'T FORGET TO CREATE FILE login.txt
+DON'T FORGET TO CREATE FILE gsuite.txt
 email|password
