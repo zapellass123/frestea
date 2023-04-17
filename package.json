@@ -10,11 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "delay": "^4.4.0",
+    "images": "^3.2.4",
     "moment": "^2.29.1",
     "puppeteer": "^5.5.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.0.1352",
     "wait-for-event": "^2.0.1"
   }
 }
