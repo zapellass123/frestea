@@ -5,4 +5,4 @@ How to use
 DON'T FORGET TO CREATE FILE gsuite.txt
 email|password
 
-#Setting browser path in config.js
+# Setting browser path in config.js
